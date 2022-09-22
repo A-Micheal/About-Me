@@ -1,6 +1,6 @@
-- 👋 Hi, I’m miracle 
+- 👋 Hi, I’m Amarachi 
 - 👀 I’m interested in Software Development and Front -end Development
-- 🌱 I’m currently learning Html,Css and Java Script.
+- 🌱 I currently possess knowledge in Html,Css and Java Script.
 - 💞️ I’m looking to collaborate on web and Front-end development projects.
 - 📫 How to reach via email @m.micheal2028@gmail.com.
 - I'm open to internships,Apprenticeship and junior Frontend developement roles
